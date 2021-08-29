@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lalitha. 
 - 👀 I’m interested in designing and developing software systems.
-- 🌱 I’m currently learning.
 - 📫 lalitha.chowdary88@gmail.com
 
 <!---
